@@ -1,0 +1,5 @@
+/*
+Copyright Sparebanken Vest
+
+Authored by The Cumulus Team.
+*/
