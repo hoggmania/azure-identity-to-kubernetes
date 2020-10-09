@@ -1,4 +1,4 @@
-module github.com/SparebankenVest/azure-key-vault-to-kubernetes
+module github.com/SparebankenVest/azure-identity-to-kubernetes
 
 go 1.13
 
